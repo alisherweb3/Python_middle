@@ -1,0 +1,9 @@
+PUT /table
+{
+  "mappings":{
+    "properties":{
+      "text_field":{"type":"keyword"},
+      "number":{"type":"long"}
+    }
+  }
+}
