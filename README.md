@@ -59,3 +59,11 @@ SQLite не выполняет роль основной базы данных, 
 
 • Smoke tests (Postman как интерфейс для тестирования).
 
+
+https://www.youtube.com/watch?v=fl1ep4tNLQ8&list=PL6HxJoN5S01TSPQt9EIYhNj2ycI8edT8E&index=3
+
+https://www.youtube.com/watch?v=JdWWYRCWuME&list=PL6HxJoN5S01TSPQt9EIYhNj2ycI8edT8E&index=7
+
+https://www.youtube.com/watch?v=EZJwWWB8Gkk&t=1762s
+
+
