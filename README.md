@@ -67,3 +67,20 @@ https://www.youtube.com/watch?v=JdWWYRCWuME&list=PL6HxJoN5S01TSPQt9EIYhNj2ycI8ed
 https://www.youtube.com/watch?v=EZJwWWB8Gkk&t=1762s
 
 
+# ИЗ ЧЕГО СОСТОИТ ВСЁ ЭТО
+
+## Intro Modul -- 5 hours
+
+## Service Admin Panel + ETL -- 115 hours
+
+## Service Async API -- 80 hours 
+
+## Service Autorization -- 80 hours
+
+## Service UGC -- 80 hours
+
+## Service Notification -- 60 hours
+
+## DIPLOMA WORK -- 80 hours
+
+## GO TO WORK -- 1 week. 
