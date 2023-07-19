@@ -1,5 +1,5 @@
 class Range
-  def __init__(self, stop_value: it):
+  def __init__(self, stop_value: int):
     self.current = -1
     self.stop_value = stop_value -1
     
